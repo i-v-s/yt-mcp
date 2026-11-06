@@ -1,0 +1,5 @@
+url = "https://youtrack.com"
+token = "perm:YOUR_TOKEN"
+download_dir = "./downloads"
+timeout_secs = 60
+max_attachment_bytes = 104857600
